@@ -1,0 +1,12 @@
+2017/10/26 17:12:52:连接断开，正在重连！
+
+2017/10/26 17:12:52:重连成功，开始续传！
+
+2017/10/26 17:14:07:Update starting. There is 2 files to be updated ......
+
+2017/10/26 17:14:08:Update completed！
+
+2017/10/26 17:18:49:Update starting. There is 1 files to be updated ......
+
+2017/10/26 17:18:49:Update completed！
+
