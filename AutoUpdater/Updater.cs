@@ -56,9 +56,8 @@ namespace AutoUpdater
             for (int i = 0; i < 100; i++)
             {
                 string userid = random.Next(1000000).ToString("00000");
-
-                ClientID = "330724_1_1_1";//**用行政，服务器 ，前置机，服务号来区分 需要修改为可配置项
-
+                ClientID = "330724111";//**用行政，服务器 ，前置机，服务号来区分 需要修改为可配置项
+                userid = ClientID;
                 LogonResponse logonResponse = rapidPassiveEngine.Initialize(userid, "", serverIP, serverPort, null);
                 if (logonResponse.LogonResult == LogonResult.Succeed)
                 {

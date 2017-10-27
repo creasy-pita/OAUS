@@ -109,3 +109,19 @@ E:\work\project\ljq\OAUS源码\OAUS.Server\obj\x86\Debug\OAUS.Server.Properties.
 E:\work\project\ljq\OAUS源码\OAUS.Server\obj\x86\Debug\OAUS.Server.csproj.GenerateResource.Cache
 E:\work\project\ljq\OAUS源码\OAUS.Server\obj\x86\Debug\OAUS.Server.exe
 E:\work\project\ljq\OAUS源码\OAUS.Server\obj\x86\Debug\OAUS.Server.pdb
+E:\work\project\.NET Code Project\自动升级工具(OAUS)\OAUS\OAUS.Server\bin\Debug\OAUS.Server.exe.config
+E:\work\project\.NET Code Project\自动升级工具(OAUS)\OAUS\OAUS.Server\obj\x86\Debug\OAUS.Server.exe
+E:\work\project\.NET Code Project\自动升级工具(OAUS)\OAUS\OAUS.Server\obj\x86\Debug\OAUS.Server.pdb
+E:\work\project\.NET Code Project\自动升级工具(OAUS)\OAUS\OAUS.Server\bin\Debug\OAUS.Server.exe
+E:\work\project\.NET Code Project\自动升级工具(OAUS)\OAUS\OAUS.Server\bin\Debug\OAUS.Server.pdb
+E:\work\project\.NET Code Project\自动升级工具(OAUS)\OAUS\OAUS.Server\bin\Debug\ESBasic.dll
+E:\work\project\.NET Code Project\自动升级工具(OAUS)\OAUS\OAUS.Server\bin\Debug\ESFramework.dll
+E:\work\project\.NET Code Project\自动升级工具(OAUS)\OAUS\OAUS.Server\bin\Debug\OAUS.Core.dll
+E:\work\project\.NET Code Project\自动升级工具(OAUS)\OAUS\OAUS.Server\bin\Debug\OAUS.Core.pdb
+E:\work\project\.NET Code Project\自动升级工具(OAUS)\OAUS\OAUS.Server\bin\Debug\ESFramework.xml
+E:\work\project\.NET Code Project\自动升级工具(OAUS)\OAUS\OAUS.Server\obj\x86\Debug\OAUS.Server.csprojResolveAssemblyReference.cache
+E:\work\project\.NET Code Project\自动升级工具(OAUS)\OAUS\OAUS.Server\obj\x86\Debug\OAUS.Server.AddFileVersionForm.resources
+E:\work\project\.NET Code Project\自动升级工具(OAUS)\OAUS\OAUS.Server\obj\x86\Debug\OAUS.Server.FileVersionForm.resources
+E:\work\project\.NET Code Project\自动升级工具(OAUS)\OAUS\OAUS.Server\obj\x86\Debug\OAUS.Server.MainForm.resources
+E:\work\project\.NET Code Project\自动升级工具(OAUS)\OAUS\OAUS.Server\obj\x86\Debug\OAUS.Server.Properties.Resources.resources
+E:\work\project\.NET Code Project\自动升级工具(OAUS)\OAUS\OAUS.Server\obj\x86\Debug\OAUS.Server.csproj.GenerateResource.Cache

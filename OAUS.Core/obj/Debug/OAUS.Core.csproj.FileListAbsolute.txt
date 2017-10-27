@@ -46,3 +46,8 @@ E:\work\project\ljq\OAUS源码\OAUS.Core\bin\Debug\ESBasic.dll
 E:\work\project\ljq\OAUS源码\OAUS.Core\obj\Debug\OAUS.Core.csprojResolveAssemblyReference.cache
 E:\work\project\ljq\OAUS源码\OAUS.Core\obj\Debug\OAUS.Core.dll
 E:\work\project\ljq\OAUS源码\OAUS.Core\obj\Debug\OAUS.Core.pdb
+E:\work\project\.NET Code Project\自动升级工具(OAUS)\OAUS\OAUS.Core\bin\Debug\OAUS.Core.dll
+E:\work\project\.NET Code Project\自动升级工具(OAUS)\OAUS\OAUS.Core\bin\Debug\OAUS.Core.pdb
+E:\work\project\.NET Code Project\自动升级工具(OAUS)\OAUS\OAUS.Core\bin\Debug\ESBasic.dll
+E:\work\project\.NET Code Project\自动升级工具(OAUS)\OAUS\OAUS.Core\obj\Debug\OAUS.Core.dll
+E:\work\project\.NET Code Project\自动升级工具(OAUS)\OAUS\OAUS.Core\obj\Debug\OAUS.Core.pdb

@@ -54,3 +54,17 @@ E:\work\project\ljq\OAUS源码\AutoUpdater\obj\x86\Debug\AutoUpdater.Properties.
 E:\work\project\ljq\OAUS源码\AutoUpdater\obj\x86\Debug\AutoUpdater.csproj.GenerateResource.Cache
 E:\work\project\ljq\OAUS源码\AutoUpdater\obj\x86\Debug\AutoUpdater.exe
 E:\work\project\ljq\OAUS源码\AutoUpdater\obj\x86\Debug\AutoUpdater.pdb
+E:\work\project\.NET Code Project\自动升级工具(OAUS)\OAUS\AutoUpdater\bin\Debug\AutoUpdater.exe.config
+E:\work\project\.NET Code Project\自动升级工具(OAUS)\OAUS\AutoUpdater\obj\x86\Debug\AutoUpdater.exe
+E:\work\project\.NET Code Project\自动升级工具(OAUS)\OAUS\AutoUpdater\obj\x86\Debug\AutoUpdater.pdb
+E:\work\project\.NET Code Project\自动升级工具(OAUS)\OAUS\AutoUpdater\bin\Debug\AutoUpdater.exe
+E:\work\project\.NET Code Project\自动升级工具(OAUS)\OAUS\AutoUpdater\bin\Debug\AutoUpdater.pdb
+E:\work\project\.NET Code Project\自动升级工具(OAUS)\OAUS\AutoUpdater\bin\Debug\ESBasic.dll
+E:\work\project\.NET Code Project\自动升级工具(OAUS)\OAUS\AutoUpdater\bin\Debug\ESFramework.dll
+E:\work\project\.NET Code Project\自动升级工具(OAUS)\OAUS\AutoUpdater\bin\Debug\OAUS.Core.dll
+E:\work\project\.NET Code Project\自动升级工具(OAUS)\OAUS\AutoUpdater\bin\Debug\OAUS.Core.pdb
+E:\work\project\.NET Code Project\自动升级工具(OAUS)\OAUS\AutoUpdater\bin\Debug\ESFramework.xml
+E:\work\project\.NET Code Project\自动升级工具(OAUS)\OAUS\AutoUpdater\obj\x86\Debug\AutoUpdater.csprojResolveAssemblyReference.cache
+E:\work\project\.NET Code Project\自动升级工具(OAUS)\OAUS\AutoUpdater\obj\x86\Debug\AutoUpdater.MainForm.resources
+E:\work\project\.NET Code Project\自动升级工具(OAUS)\OAUS\AutoUpdater\obj\x86\Debug\AutoUpdater.Properties.Resources.resources
+E:\work\project\.NET Code Project\自动升级工具(OAUS)\OAUS\AutoUpdater\obj\x86\Debug\AutoUpdater.csproj.GenerateResource.Cache
